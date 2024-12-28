@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Scripting, Machine Learning , Distributed  Databses<br>👯 I’m looking to collaborate on Machine Learning and Distributed Database<br>🌱 I’m currently learning Unsupervised Learning <br>💬 Ask me about NLP and User Interfaces <br>⚡ Fun fact Ask me about last F1 race
+🔭 I’m currently working on Python Scripting, Machine Learning , Distributed  Databses<br>👯 I’m looking to collaborate on ML and Big Data Projects <br>🌱 I’m currently learning Unsupervised Learning <br>💬 Ask me about NLP and User Interfaces <br>⚡ Fun fact Ask me about last F1 race
 
 
 ## 🌐 Socials:
