@@ -46,7 +46,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/genai-data-analyzer">
-        <img src="https://cdn.simpleicons.org/microsoftexcel" width="44" alt="Microsoft Excel"/>
+        <img src="https://cdn.simpleicons.org/microsoft-excel" width="44" alt="Microsoft Excel"/>
         <div><b>Excel.ai</b></div>
       </a>
       <div><sub>GenAI + data insights</sub></div>
