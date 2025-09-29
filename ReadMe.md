@@ -44,15 +44,16 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mohit853/genai-data-analyzer">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="46" alt="Excel"/>
-        <div style="font-family: 'Trebuchet MS', sans-serif; font-size: 28px; font-weight: 600;">
-          <span style="color:#107c41;">Excel</span><span style="color:#0b57d0;">.ai</span>
-        </div>
-      </a>
-      <div><sub>GenAI + data insights</sub></div>
-    </td>
+   <td align="center" width="50%">
+    <a href="https://github.com/mohit853/genai-data-analyzer">
+      <img src="https://cdn.simpleicons.org/microsoftexcel" width="46" alt="Excel"/>
+      <div><h3 style="margin:8px 0 4px 0;">
+        <span style="color:#107c41;">Excel</span><span style="color:#0b57d0;">.ai</span>
+      </h3></div>
+    </a>
+    <div><sub>Excel automation powered by AI</sub></div>
+  </td>
+
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/cloud-native-app-deployment">
         <img src="https://cdn.simpleicons.org/go" width="44" alt="Go"/>
