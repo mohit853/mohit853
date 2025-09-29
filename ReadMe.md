@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on Python Scripting, Machine Learning , Distributed  Databses<br>👯 I’m looking to collaborate on ML and Big Data Projects <br>🌱 I’m currently learning Unsupervised Learning <br>💬 Ask me about NLP and User Interfaces <br>⚡ Fun fact Ask me about last F1 race
+👋 Hey there! I’m Mohit, a data science grad student who loves turning messy data into clear insights and smart systems.  
+🚀 I enjoy building end-to-end AI/ML solutions—from scalable data pipelines to interactive dashboards and GenAI chatbots.  
+🧐 Always learning, always experimenting—feel free to explore my projects and connect, I’d love to exchange ideas!
+
 
 
 ## 🌐 Socials:
