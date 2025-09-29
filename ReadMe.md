@@ -46,8 +46,10 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/genai-data-analyzer">
-        <img src="https://cdn.simpleicons.org/python" width="44" alt="Python"/>
-        <div><b>genai-data-analyzer</b></div>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="46" alt="Excel"/>
+        <div style="font-family: 'Trebuchet MS', sans-serif; font-size: 28px; font-weight: 600;">
+          <span style="color:#107c41;">Excel</span><span style="color:#0b57d0;">.ai</span>
+        </div>
       </a>
       <div><sub>GenAI + data insights</sub></div>
     </td>
