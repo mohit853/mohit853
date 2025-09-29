@@ -40,48 +40,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin: 10px;"/>
 </p>
 
-### 🛠️ My Projects
+### 🔧 My Projects
 
 <table>
   <tr>
-    <!-- Card 1 -->
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/genai-data-analyzer">
-        <!-- Excel + (extra) Python to hint 'smart Excel' -->
-        <img src="https://cdn.simpleicons.org/microsoftexcel" width="46" alt="Excel"/>
-        <img src="https://cdn.simpleicons.org/python" width="34" alt="Python" style="margin-left:6px;"/>
-        <div><h3 style="margin:8px 0 4px 0;">excel<span style="color:#0b57d0">.ai</span></h3></div>
+        <img src="https://cdn.simpleicons.org/python" width="44" alt="Python"/>
+        <div><b>genai-data-analyzer</b></div>
       </a>
-      <div><sub>Excel automation + AI helpers</sub></div>
+      <div><sub>GenAI + data insights</sub></div>
     </td>
-
-    <!-- Card 2 -->
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/cloud-native-app-deployment">
-        <img src="https://cdn.simpleicons.org/kubernetes" width="46" alt="Kubernetes"/>
-        <div><h3 style="margin:8px 0 4px 0;">cloud-native-app-deployment</h3></div>
+        <img src="https://cdn.simpleicons.org/go" width="44" alt="Go"/>
+        <div><b>cloud-native-app-deployment</b></div>
       </a>
-      <div><sub>Kubernetes • containers • CI/CD</sub></div>
+      <div><sub>Go + containers + CI/CD</sub></div>
     </td>
   </tr>
   <tr>
-    <!-- Card 3 -->
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/graph-rag-app">
-        <img src="https://cdn.simpleicons.org/neo4j" width="42" alt="Neo4j" />
-        <img src="https://cdn.simpleicons.org/ollama" width="38" alt="Ollama" style="margin-left:8px;"/>
-        <div><h3 style="margin:8px 0 4px 0;">graph-rag-app</h3></div>
+        <img src="https://cdn.simpleicons.org/neo4j" width="44" alt="Neo4j"/>
+        <div><b>graph-rag-app</b></div>
       </a>
-      <div><sub>Neo4j graph + local LLM (Ollama)</sub></div>
+      <div><sub>Graph + RAG</sub></div>
     </td>
-
-    <!-- Card 4 -->
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/Phrase-to-Phrase-Matching">
-        <img src="https://cdn.simpleicons.org/semanticweb" width="46" alt="Semantic"/>
-        <div><h3 style="margin:8px 0 4px 0;">WAVELENGTH</h3></div>
+        <img src="https://cdn.simpleicons.org/jupyter" width="44" alt="Jupyter"/>
+        <div><b>Phrase-to-Phrase-Matching</b></div>
       </a>
-      <div><sub>Semantic phrase matching (NLP notebooks)</sub></div>
+      <div><sub>NLP notebooks</sub></div>
     </td>
   </tr>
 </table>
+
