@@ -40,4 +40,61 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin: 10px;"/>
 </p>
 
+### 🛠️ My Projects
+
+<table>
+  <tr>
+    <!-- Card 1: excel.ai -->
+    <td align="center" width="50%">
+      <a href="https://github.com/mohit853/genai-data-analyzer">
+        <div style="display:flex;justify-content:center;gap:10px;align-items:center;margin-bottom:6px;">
+          <img src="https://cdn.simpleicons.org/microsoftexcel" width="44" alt="Microsoft Excel"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/>
+        </div>
+        <h3>excel<span style="color:#0b57d0">.ai</span></h3>
+      </a>
+      <sub>Excel automation powered by AI</sub>
+    </td>
+
+    <!-- Card 2: Dock8 -->
+    <td align="center" width="50%">
+      <a href="https://github.com/mohit853/cloud-native-app-deployment">
+        <div style="display:flex;justify-content:center;gap:10px;align-items:center;margin-bottom:6px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" alt="Docker"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="44" alt="Kubernetes"/>
+        </div>
+        <h3>Dock8</h3>
+      </a>
+      <sub>Container orchestration with Docker &amp; Kubernetes</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Card 3: graph-rag-app -->
+    <td align="center" width="50%">
+      <a href="https://github.com/mohit853/graph-rag-app">
+        <div style="display:flex;justify-content:center;gap:10px;align-items:center;margin-bottom:6px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="44" alt="Neo4j"/>
+          <img src="https://cdn.simpleicons.org/openai" width="40" alt="LLM"/>
+        </div>
+        <h3>graph-rag-app</h3>
+      </a>
+      <sub>Graph-powered RAG with Neo4j + local LLMs</sub>
+    </td>
+
+    <!-- Card 4: VectorForge -->
+    <td align="center" width="50%">
+      <a href="https://github.com/mohit853/Phrase-to-Phrase-Matching">
+        <div style="display:flex;justify-content:center;gap:10px;align-items:center;margin-bottom:6px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44" alt="NumPy"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+        </div>
+        <h3>VectorForge</h3>
+      </a>
+      <sub>Semantic phrase matching with NLP embeddings</sub>
+    </td>
+  </tr>
+</table>
+
+
 
