@@ -44,14 +44,13 @@
 
 <table>
   <tr>
-     <td align="center" width="50%">
-      <a href="https://github.com/mohit853/cloud-native-app-deployment">
-        <img src="https://cdn.simpleicons.org/go" width="44" alt="Go"/>
-        <div><b>cloud-native-app-deployment</b></div>
+    <td align="center" width="50%">
+      <a href="https://github.com/mohit853/genai-data-analyzer">
+        <img src="https://cdn.simpleicons.org/python" width="44" alt="Python"/>
+        <div><b>genai-data-analyzer</b></div>
       </a>
-      <div><sub>Go + containers + CI/CD</sub></div>
+      <div><sub>GenAI + data insights</sub></div>
     </td>
-   
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/cloud-native-app-deployment">
         <img src="https://cdn.simpleicons.org/go" width="44" alt="Go"/>
@@ -77,4 +76,3 @@
     </td>
   </tr>
 </table>
-
