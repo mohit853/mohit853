@@ -48,46 +48,42 @@
     <!-- Card 1 -->
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/genai-data-analyzer">
-        <!-- Excel + (extra) Python to hint 'smart Excel' -->
-        <img src="https://cdn.simpleicons.org/microsoftexcel" width="46" alt="Excel"/>
-        <img src="https://cdn.simpleicons.org/python" width="34" alt="Python" style="margin-left:6px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="46" alt="Excel"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" alt="Python" style="margin-left:6px;"/>
         <div><h3 style="margin:8px 0 4px 0;">excel<span style="color:#0b57d0">.ai</span></h3></div>
       </a>
-      <div><sub>Excel automation + AI helpers</sub></div>
+      <div><sub>Excel automation powered by AI</sub></div>
     </td>
 
     <!-- Card 2 -->
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/cloud-native-app-deployment">
-        <img src="https://cdn.simpleicons.org/kubernetes" width="46" alt="Kubernetes"/>
-        <div><h3 style="margin:8px 0 4px 0;">cloud-native-app-deployment</h3></div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" alt="Kubernetes" style="margin-left:8px;"/>
+        <div><h3 style="margin:8px 0 4px 0;">Dock8</h3></div>
       </a>
-      <div><sub>Dock8</sub></div>
+      <div><sub>Container orchestration with Docker & Kubernetes</sub></div>
     </td>
   </tr>
   <tr>
     <!-- Card 3 -->
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/graph-rag-app">
-        <img src="https://cdn.simpleicons.org/neo4j" width="42" alt="Neo4j" />
-        <img src="https://cdn.simpleicons.org/ollama" width="38" alt="Ollama" style="margin-left:8px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="42" alt="Neo4j"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" alt="Ollama placeholder" style="margin-left:8px;"/>
         <div><h3 style="margin:8px 0 4px 0;">graph-rag-app</h3></div>
       </a>
-      <div><sub>Neo4j graph + local LLM (Ollama)</sub></div>
+      <div><sub>Graph-powered RAG with Neo4j + LLMs</sub></div>
     </td>
 
     <!-- Card 4 -->
-   <td align="center" width="50%">
-  <a href="https://github.com/mohit853/Phrase-to-Phrase-Matching">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" alt="NLP" />
-    <img src="https://cdn.simpleicons.org/opennlp" width="38" alt="OpenNLP" style="margin-left:8px;"/>
-    <div><h3 style="margin:8px 0 4px 0;">VectorForge</h3></div>
-  </a>
-  <div><sub>Semantic phrase matching with NLP embeddings</sub></div>
-</td>
-
+    <td align="center" width="50%">
+      <a href="https://github.com/mohit853/Phrase-to-Phrase-Matching">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" alt="Embeddings"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="38" alt="NLP" style="margin-left:8px;"/>
+        <div><h3 style="margin:8px 0 4px 0;">VectorForge</h3></div>
+      </a>
+      <div><sub>Semantic phrase matching with NLP embeddings</sub></div>
+    </td>
   </tr>
 </table>
-
-
-
