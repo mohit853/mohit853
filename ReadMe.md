@@ -54,7 +54,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/cloud-native-app-deployment">
         <img src="https://cdn.simpleicons.org/go" width="44" alt="Go"/>
-        <div><b>cloud-native-app-deployment</b></div>
+        <div><b>Dock8</b></div>
       </a>
       <div><sub>Go + containers + CI/CD</sub></div>
     </td>
@@ -63,7 +63,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/graph-rag-app">
         <img src="https://cdn.simpleicons.org/neo4j" width="44" alt="Neo4j"/>
-        <div><b>graph-rag-app</b></div>
+        <div><b>NeoLlama</b></div>
       </a>
       <div><sub>Graph + RAG</sub></div>
     </td>
