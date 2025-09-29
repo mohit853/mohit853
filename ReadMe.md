@@ -44,15 +44,15 @@
 
 <table>
   <tr>
-   <td align="center" width="50%">
-    <a href="https://github.com/mohit853/genai-data-analyzer">
-      <img src="https://cdn.simpleicons.org/microsoftexcel" width="46" alt="Excel"/>
-      <div><h3 style="margin:8px 0 4px 0;">
-        <span style="color:#107c41;">Excel</span><span style="color:#0b57d0;">.ai</span>
-      </h3></div>
-    </a>
-    <div><sub>Excel automation powered by AI</sub></div>
-  </td>
+     <td align="center" width="50%">
+      <a href="https://github.com/mohit853/genai-data-analyzer">
+        <img src="https://cdn.simpleicons.org/microsoftexcel" width="46" alt="Excel"/>
+        <div><h3 style="margin:8px 0 4px 0;">
+          <span style="color:#107c41;">Excel</span><span style="color:#0b57d0;">.ai</span>
+        </h3></div>
+      </a>
+      <div><sub>Excel automation powered by AI</sub></div>
+    </td>
 
     <td align="center" width="50%">
       <a href="https://github.com/mohit853/cloud-native-app-deployment">
