@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit20/) 
+[![Portfolio](https://mohit-website.vercel.app/) 
 
 ### 🔨 Languages and Tools:
 
