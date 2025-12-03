@@ -4,8 +4,7 @@
 
 
 
-## 🌐 Socials:
-[![Portfolio](https://mohit-website.vercel.app/) 
+
 
 ### 🔨 Languages and Tools:
 
